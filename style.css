@@ -166,6 +166,7 @@ footer .social-links {
   align-items: center;
   justify-content: center;
   margin: .6rem;
+  color: var(--blue);
 }
 
 .social-link:hover {
